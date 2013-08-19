@@ -1,0 +1,4 @@
+The model and its associated works have taken contributions from the following people. Each of them has assigned copyright in this work to Arlo Belshee and Anders Ivarsson.
+
+* Arlo Belshee (github.com/arlobelshee)
+* Anders Ivarsson (github.com/aivarsson)
